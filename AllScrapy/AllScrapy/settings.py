@@ -17,7 +17,6 @@ REDISPORT=6379
 REDISDB=0
 
 #阿里云配置
-#阿里云配置
 ACCESSKEYID = 'LTAIbdu14y5Gkx78'
 ACCESSKEYSECRET = 'XUKhoYSTjieG8awm3tVzv41GxXRTiM'
 ENDPOINT = 'oss-cn-beijing.aliyuncs.com'
